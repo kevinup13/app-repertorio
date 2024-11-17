@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/kevin/Área de trabalho/App controle de musicas/app_repertorio/venv/bin/python3" "$0" "$@"
+'''exec' "/home/kevin/Área de trabalho/app-repertorio/app_repertorio/venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
